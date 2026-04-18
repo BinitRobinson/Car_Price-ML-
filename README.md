@@ -9,7 +9,7 @@ app_live=https://huggingface.co/spaces/binitrobinson/car_price_ai
 ## 📸 App Preview
 
 <p align="center">
-  <img src="Car.png" width="700"/>
+  <img src="car.png" width="700"/>
 </p>
 
 ---
