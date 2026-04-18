@@ -2,6 +2,8 @@
 
 Predict resale value instantly using Machine Learning.
 
+app_live=https://huggingface.co/spaces/binitrobinson/car_price_ai
+
 ---
 
 ## 📸 App Preview
