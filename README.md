@@ -64,11 +64,3 @@ The goal of this project is to predict the selling price of used cars based on v
 - Handling real-world issues like feature mismatch and version compatibility
 
 ---
-
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/car-price-ai.git
-cd car-price-ai
